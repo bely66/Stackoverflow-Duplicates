@@ -15,3 +15,4 @@
 6. Cleaning and Preparing the Data.
 7. Training Facebook's Starspace
 
+> This should be used on google colab
